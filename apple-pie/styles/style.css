@@ -1,0 +1,44 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.torta {
+  background-image: url("../images/apple-pie.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: 0 0;
+  height: 850px;
+  background-size: cover;
+}
+.font-header {
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 100px;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.list-style {
+  list-style: none;
+}
+.article-box {
+  width: 50%;
+}
+.image-size1 {
+  width: 250px;
+  height: 50px;
+}
+.image-size2 {
+  width: 250px;
+  height: 50px;
+}
+hr {
+  width: 50%;
+  border: none;
+  border-bottom: 2px solid gainsboro;
+}
